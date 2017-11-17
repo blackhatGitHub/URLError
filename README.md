@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# -*- coding: UTF-8 -*-
+
 import urllib2
  request = urllib2.Request('http://www.xxxxx.com')
 try:
